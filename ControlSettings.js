@@ -290,7 +290,6 @@ ChannelThemeURL = 'https://dl.dropboxusercontent.com/s/l1qoep4su4xn5qz/chinska.c
 
 ThemesCSS = [
 ['Plus Red', 'https://dl.dropboxusercontent.com/s/th8i1sj332wi0x9/plusred.css'],
-['Kobato', 'https://dl.dropboxusercontent.com/s/1r3twlb0loipybw/kobato.css'],
 ['Celadon', 'https://dl.dropboxusercontent.com/s/iwarwhhph1ti2ek/celadon.css'],
 ];
 
